@@ -51,13 +51,17 @@ Based on the official competition documentation, the following variables were us
 ---
 
 ## **3. Global Overview & KPIs**
-*![Insert Overview Dashboard Screenshot]*
-> **Key Insight:** The "Green Surge" represents a massive global investment effort. This dashboard visualizes the scale of production against the $11.7\text{T}$ in investments highlighted in our model, showing how leading nations utilize their specific resource strengths.
+
+![Overview](https://github.com/alisonnanjez/Global-Renewable-Energy-Drivers/blob/main/Overview%20Dashboard.png)
+
+ **Key Insight:** The "Green Surge" represents a massive global investment effort. This dashboard visualizes the scale of production against the $11.7\text{T}$ in investments highlighted in our model, showing how leading nations utilize their specific resource strengths.
 
 ---
 
 ## **4. Key Insight: The Efficiency Frontier**
-*![Insert Scatter Plot Screenshot]*
+
+![Economic Scatterplot](https://github.com/alisonnanjez/Global-Renewable-Energy-Drivers/blob/main/Economic.png)
+
 **Analysis:** A primary focus of the NextEra mission was identifying which regions invest most efficiently. 
 * **The Findings**: While investment (USD) and production (GWh) generally follow a linear trend, "Efficiency Champions" are those that leverage high natural **Innovation Indexes** or **Grid Integration Capabilities**.
 * **Strategic Takeaway**: High-GDP nations often lead in raw volume, but nations with specific **Renewable Energy Targets** ($1=Yes$) show a 22% higher investment-to-production return, proving that policy is a catalyst for efficiency.
@@ -65,7 +69,8 @@ Based on the official competition documentation, the following variables were us
 ---
 
 ## **5. Key Insight: Geography is Destiny**
-*![Insert Energy Map Screenshot]*
+
+![Energy Map](https://github.com/alisonnanjez/Global-Renewable-Energy-Drivers/blob/main/Energy%20Map.png)
 **Analysis**: Environmental factors like **Solar Irradiance**, **Wind Speed**, and **Hydro Potential** dictate the "Top Resource" for each nation.
 * **The Findings**: Nations are not just choosing renewables based on cost; they are responding to their physical landscape. For example, countries with a high **Hydro Potential Index** produce more consistent "baseload" energy than those relying on variable **Wind Speed**.
 * **Strategic Takeaway**: NextEra Energy should prioritize portfolio diversification. Relying on a single resource (e.g., only Solar) exposes a region to seasonal "zig-zags" in production.
@@ -73,7 +78,9 @@ Based on the official competition documentation, the following variables were us
 ---
 
 ## **6. The Carbon Paradox (Deep Dive)**
-*![Insert Lollipop Chart Screenshot]*
+
+![Lollipop Chart](https://github.com/alisonnanjez/Global-Renewable-Energy-Drivers/blob/main/Lollipop%20Chart.png)
+
 **Analysis**: We examined how **CO2 Emissions** relate to the **Proportion of Energy from Renewables (%).
 * **The Findings**: A "Paradox" exists where some nations have a high renewable share (over 50%) but still report high MtCO2 emissions.
 * **The Logic**: This often happens in countries where renewables have successfully "surged" but have not yet fully replaced high-emission fossil fuels used for grid stability.
